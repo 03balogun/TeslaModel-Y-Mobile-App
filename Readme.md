@@ -1,5 +1,5 @@
 ## Tesla Model Y - Mobile App
-An implementation of a Figma design using React Native
+An implementation of [Tesla Model Y - Concept UI Kit for Figma](https://www.uistore.design/items/tesla-model-y-concept-ui-kit-for-figma/) using React Native
 
 ### Getting Started
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes.
